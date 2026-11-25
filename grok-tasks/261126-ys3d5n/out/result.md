@@ -1,5 +1,40 @@
 # YS3D5N 退款策略（TeaFlight 訂單 334442049076）
 
+## 0. 現在先處理：捷星線上客服（Peter）
+
+目標是拿到**書面可引用的事實**和**參考編號**，不再爭取改票費（已明確拒絕）。
+依序貼上，每句等 Peter 回覆後再貼下一句：
+
+1. 稅金退款細節
+   > Thank you, Peter. For the tax refund on YS3D5N, could you please confirm the exact amount, and whether it will be refunded to my original payment method or to the travel agent, TeaFlight?
+
+2. 參考編號
+   > Could you please provide a reference or case number for this refund and for today's chat?
+
+3. 聯絡資料是誰設的（向 TeaFlight 求償的關鍵證據）
+   > Could you confirm whether the contact email and phone number on YS3D5N were entered by the travel agent when the booking was created?
+
+4. 聯絡資料有沒有被改過
+   > Were the contact details on this booking changed at any time after it was created, or have they been the same since the original booking?
+
+5. 改票確認信有沒有寄出（不問寄去哪裡，只問有沒有寄）
+   > Can you confirm that a change confirmation was sent for YS3D5N after my date change on 1 June 2026, to the contact email on the booking at that time?
+
+6. TeaFlight 能不能向捷星拿回票價（判斷 TeaFlight 有沒有退款空間）
+   > If TeaFlight submits a refund request for YS3D5N, would any part of the fare be refundable to them, or only the taxes?
+
+7. 對話紀錄
+   > Is it possible to receive a transcript of this chat? If not, I will save a copy on my side.
+
+8. 結束
+   > Thank you very much for your help today, Peter.
+
+**注意**
+- 不要提供額外的個人資料。Peter 如果要求寄紀錄的 email，先問 Kai。**不要寄到訂位上那個 sohu 信箱**。
+- 結束前，把整段對話截圖或存檔。
+- 第 3、4、5、6 題的答案，之後寫進給 TeaFlight 的信當證據。
+- Peter 如果拒答某題，不用追問，記下「捷星表示只有 TeaFlight 能提供」即可。這句本身也是證據。
+
 ## 1. TeaFlight 退款的可能性
 
 - 沒有 TeaFlight 處理類似案件的公開數據，以下是根據評價和案情的估計：
