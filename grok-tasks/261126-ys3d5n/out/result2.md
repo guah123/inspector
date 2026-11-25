@@ -5,7 +5,7 @@
 - **回覆在同一個討論串**，接在 Kai 之前寄給 TeaFlight 的信之後（主旨開頭「Refund Request – Duplicate Booking…」）。
 - 建議附上捷星寄到 Kai Gmail 的線上客服對話紀錄，作為證據。
 
-## Email（英文，約 230 字）
+## Email（英文，約 270 字；目標金額最大化）
 
 Subject: Re: Refund Request – Duplicate Booking Caused by Missing Change Notification (Order 334442049076 / PNR YS3D5N)
 
@@ -17,13 +17,15 @@ Further to my previous emails about order 334442049076 (PNR YS3D5N), Jetstar has
 2. Jetstar sends an updated itinerary after every modification. The confirmation of my 1 June 2026 change was therefore sent to the contact email entered by TeaFlight, not to me.
 3. Only the tax of JPY 2,520 is refundable, and it will be returned to the original form of payment, which is TeaFlight.
 
-This confirms that I missed the change confirmation solely because of the contact details entered on my booking by TeaFlight. That is why I believed the change had failed and booked the same flight again.
+This confirms that I missed the change confirmation solely because of the contact details entered on my booking by TeaFlight. That is why I believed the change had failed and booked the same flight again. Both the unused ticket and the change fee were lost as a direct result.
 
 I therefore respectfully request:
-(a) Please forward the JPY 2,520 tax refund to me once you receive it from Jetstar.
-(b) Please refund or compensate the change fee of JPY 16,480 and the unused fare of YS3D5N, as both losses resulted from the incorrect contact details.
-(c) Please tell me the date the 1 June change confirmation was delivered, and the email address it was delivered to.
-(d) Please provide a case number for this matter.
+(a) A full refund of NT$7,327, the total I paid TeaFlight for YS3D5N. This includes the JPY 2,520 tax that Jetstar is returning to TeaFlight.
+(b) Compensation of NT$3,303 for the change fee (JPY 16,480 plus the card's foreign transaction fee).
+(c) The date the 1 June change confirmation was delivered, and the email address it was delivered to.
+(d) A case number for this matter.
+
+If a full refund under (a) is not possible, I ask at minimum that you forward the JPY 2,520 tax refund, compensate the change fee in full, and refund the remaining fare in cash rather than as travel credit.
 
 I would appreciate your reply within 7 business days. Thank you for your help.
 
@@ -40,11 +42,17 @@ CHEN POKAI
 - 捷星說票價和改票費都不可退，代表 TeaFlight **無法從捷星拿回這兩筆錢**。如果 TeaFlight 要賠，就得自掏腰包，全額退款的機會更低。
 - 可退的稅金只有 JPY 2,520，比原本收據上的稅費 NT$1,648 少，其餘稅費（例如燃油附加費）不可退。
 
-**調整後的優先順序**
-1. **一定要拿到**：稅金 JPY 2,520 轉給 Kai。
-2. **主要爭取**：改票費 JPY 16,480。因果關係最直接，付了錢卻因為收不到確認信而白費。
-3. **加分項**：未使用的票價 NT$5,679。可以要求，但若 TeaFlight 只願意賠改票費加轉交稅金，可以考慮接受（需 Kai 同意）。
-4. 部分退款或旅行金、7 個工作天未回覆的處理方式，照 `result.md` 不變。
+**目標金額（依 Kai 要求最大化）**
+- 主要要求：NT$7,327（YS3D5N 全額，含捷星退回 TeaFlight 的稅金）＋ NT$3,303（改票費）＝ **NT$10,630**。
+- 寫成「全額 NT$7,327 含稅金」，不另外列稅金，是為了避免 TeaFlight 主張重複計算。
+- 退讓方案（信中已寫）：稅金轉交＋改票費全額＋剩餘票價**現金退款**，不接受旅行金。
+
+**收到回覆後的判斷**
+- 全額 NT$10,630 → 接受。
+- 只給稅金＋改票費 → 再爭取一次票價，理由重申捷星的書面確認；仍不行，交 Kai 決定。
+- 只給旅行金 → 要求改現金一次；仍不行，交 Kai 決定。
+- 任何方案都要先經 Kai 同意才能回覆接受。
+- 7 個工作天未回覆的處理方式，照 `result.md` 不變。
 
 **提醒**
 - 捷星對話紀錄寄到 Kai 的 Gmail，請保存，必要時附給 TeaFlight。
